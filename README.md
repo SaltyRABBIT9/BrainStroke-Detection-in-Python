@@ -12,7 +12,7 @@ F1 score:  0.9235880398671096
 Precision score:  0.8742138364779874
 Recall score:  0.9788732394366197
 
-<h3>Support Vector Machine (SVM)</h3>h3><br>
+<h3>Support Vector Machine (SVM)</h3><br>
 Accuracy score:  0.8852459016393442
 F1 score:  0.9278350515463918
 Precision score:  0.9060402684563759
